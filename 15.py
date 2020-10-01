@@ -4,3 +4,4 @@ print(near_thousand(1000))
 print(near_thousand(900))
 print(near_thousand(800))
 print(near_thousand(2200))
+//this is simple program
